@@ -33,3 +33,8 @@ I made a web application that serves as a notepad of items in a list. In this li
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Grocery%20bud%20app%20page`
 
 ## Video
+
+
+
+https://user-images.githubusercontent.com/99032604/199619905-58f86563-32cb-4de6-8b93-77001318959d.mp4
+
