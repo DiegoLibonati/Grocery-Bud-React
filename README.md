@@ -30,7 +30,7 @@ I made a web application that serves as a notepad of items in a list. In this li
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Grocery%20bud%20app%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Grocery%20Bud%20App%20Page`
 
 ## Video
 
