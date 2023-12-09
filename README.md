@@ -16,21 +16,9 @@ I made a web application that serves as a notepad of items in a list. In this li
 1. React JS
 2. CSS3
 
-## Galery
-
-![grocery-bud-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/grocerybudreact-0.jpg)
-
-![grocery-bud-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/grocerybudreact-1.jpg)
-
-![grocery-bud-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/grocerybudreact-2.jpg)
-
-![grocery-bud-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/grocerybudreact-3.jpg)
-
-![grocery-bud-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/grocerybudreact-4.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Grocery%20Bud%20App%20Page`
+[`https://www.diegolibonati.com.ar/#/project/30`](https://www.diegolibonati.com.ar/#/project/30)
 
 ## Video
 
