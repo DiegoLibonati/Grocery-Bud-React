@@ -1,7 +1,12 @@
-import React from "react";
 import { BsTrash, BsPencil } from "react-icons/bs";
+import { ItemGroceryProps } from "../entities/entities";
 
-export const ItemGrocery = ({ id, title, removeItem, editItem }) => {
+export const ItemGrocery = ({
+  id,
+  title,
+  removeItem,
+  editItem,
+}: ItemGroceryProps): JSX.Element => {
   return (
     <article className="grocery_item">
       <h2>{title}</h2>

@@ -34,6 +34,8 @@ body {
   flex-flow: column wrap;
   width: 90%;
   height: auto;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
   background-color: #fff;
 }
 
@@ -85,6 +87,8 @@ body {
   width: 90%;
   height: auto;
   padding: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
 }
 
 .grocery_item {
