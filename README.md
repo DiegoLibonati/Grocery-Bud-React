@@ -1,4 +1,4 @@
-# Grocery-Bud-App-Page
+# Grocery Bud React
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ I made a web application that serves as a notepad of items in a list. In this li
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/30`](https://www.diegolibonati.com.ar/#/project/30)
+[`https://www.diegolibonati.com.ar/#/project/Grocery-Bud-React`](https://www.diegolibonati.com.ar/#/project/Grocery-Bud-React)
 
 ## Video
 
